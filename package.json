@@ -12,7 +12,6 @@
     "start": "nf start -j Procfile.dev"
   },
   "dependencies": {
-    "passport": "*",
     "apostrophe-blog": "*",
     "todo-list": "*",
     "ajax-promise": "^0.8.1",
